@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siamakmirifar
-- 👀 I’m interested in C++/Qt/Embedded system/Programming
+- 👀 I’m interested in C++/Qt/QML/Java/Programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++/Qt
 - 📫 How to reach me? There is no way to reach me 😶
